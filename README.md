@@ -1,2 +1,0 @@
-# polypuch
-Aplicación web
